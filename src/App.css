@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input[type="text"] {
+  padding-left: 6px;
+   border: 2px solid black;
+  }
